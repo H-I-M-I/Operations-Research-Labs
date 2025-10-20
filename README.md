@@ -88,14 +88,4 @@ This notebook introduces Python dictionaries — key-value data structures — a
 #### Nested Dictionaries
 
 
-Demonstrates accessing and modifying structured data.
-
----
-
-## 🧩 Suggested Next Steps
-
-* Experiment with larger data in NumPy arrays.
-* Extend the prime number checker to handle user input.
-* Visualize results using `matplotlib` subplots.
-* Explore list and dictionary comprehensions for cleaner syntax.
 
